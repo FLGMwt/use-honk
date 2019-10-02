@@ -1,4 +1,4 @@
-Warning: I'm coming this blind on a phone on a train it probably doesn't work
+Warning: I'm coding this blind on a phone on a train it probably doesn't work
 
 # Usage
 
