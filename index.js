@@ -14,12 +14,6 @@ const useHonk = () => {
       dehonk.current = honkify(node);
     }
     ref.current = node;
-    return () => {
-      if (dehonk.current) {
-        dehonk();
-        dehonk.current = null;
-      }
-    };
   }, []);
 
   return [setRef];
