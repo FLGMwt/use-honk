@@ -5,7 +5,7 @@ Warning: I'm coding this blind on a phone on a train it probably doesn't work
 Honk
 
 ```jsx
-
+import React from 'react';
 import useHonk from 'use-honk';
 
 const App = () => {
@@ -14,10 +14,10 @@ const App = () => {
   return (
     <>
       <ul>
-        <li><a href="">No Honk</a></li>
+        <li><a href="/">No Honk</a></li>
       </ul>
       <ul ref={honkRef}>
-        <li><a href="">Honk</a></li>
+        <li><a href="/">Honk</a></li>
       </ul>
     </>
   );
