@@ -1,5 +1,3 @@
-Warning: I'm coding this blind on a phone on a train it probably doesn't work
-
 # Usage
 
 Honk
